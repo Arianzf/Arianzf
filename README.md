@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML or just anything related to AI
 - 🌱 I’m currently learning different python packages that can be used for ML
 - I have done projects before. However, I used to be a messy coder for a long time. So I prefer to share my most recent and cleanest projects right now
-- 📫 How to reach me ...
+- 📫 How to reach me: 22az6@queensu.ca
 
 <!---
 Arianzf/Arianzf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
